@@ -38,7 +38,7 @@ Hello, my name is Francisco Juillet, I have been a Computer Engineer for more th
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
-![Android Studio](https://img.shields.io/badge/-Android Studio-000000?style=flat&logo=android)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-000000?style=flat&logo=android)
 ![Netbeans](https://img.shields.io/badge/-Netbeans-000000?style=flat&logo=java)
-![Visual Studio](https://img.shields.io/badge/-Visual Studio-000000?style=flat&logo=.net)
-![Visual Studio Code](https://img.shields.io/badge/-Visual Studio Code-000000?style=flat&logo=.net)
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-000000?style=flat&logo=.net)
+![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000000?style=flat&logo=.net)
