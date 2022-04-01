@@ -34,9 +34,11 @@ Hello, my name is Francisco Juillet, I have been a Computer Engineer for more th
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![SqlServer](https://img.shields.io/badge/-SqlServer-000000?style=flat&logo=sqlserver)
+![SqlServer](https://img.shields.io/badge/-SqlServer-000000?style=flat&logo=sql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
-![AndroidStudio](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
-![Netbeans](https://img.shields.io/badge/-Netbeans-000000?style=flat&logo=netbeans)
+![Android Studio](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
+![Netbeans](https://img.shields.io/badge/-Netbeans-000000?style=flat&logo=java)
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-000000?style=flat&logo=.net)
+![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000000?style=flat&logo=.net)
