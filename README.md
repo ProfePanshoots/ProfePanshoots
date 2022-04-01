@@ -1,7 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=ProfePanshoots">
 
 ### Page: https://profepanshoots.github.io/aboutme/ 
-<br>
 
 ### Hi there 👋
 Hello, my name is Francisco Juillet, I have been a Computer Engineer for more than 12 years. I am currently working as a teacher at DuocUc.
