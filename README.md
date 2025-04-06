@@ -6,8 +6,8 @@
 Hello, my name is Francisco Juillet, I have been a Computer Engineer for more than 12 years. I am currently working as a teacher at DuocUc.
 
 - 💻 I like **love** coding
-- 🔭 I’m currently working on a ionic app.
-- 🌱 I’m currently learning Vue.js backend
+- 🔭 I’m currently working on a ionic and rect native app.
+- 🌱 I’m currently working Vue.js and Nestjs backend
 - 👯 I’m looking to collaborate on opensource and group projects.
 
 <!--
